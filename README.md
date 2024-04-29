@@ -3,8 +3,7 @@
 <br><br>Front-end finesse? Absolutely. I'm adept in JavaScript, React, Angular, ensuring that user interfaces are as compelling and user-friendly as the robust backend. I utilize HTML, CSS, and JavaScript to polish up the user experience.
 <br><br>I champion clear, maintainable code and efficient solutions, guided by Agile Scrum methodologies to navigate through the software development life cycle effectively. At the end of the day, I'm not just about coding—I'm passionate about crafting solutions that make an impact, resonate with users, and drive forward the narrative of innovation in a team that values creativity, quality, and a sprinkle of fun.
 
-<br><br>- 💬 Ask me about Javascript, React, NodeJS, Python, Django, Flask, Django RestFramework, HTML, CSS
-
+<br>- 💬 Ask me about Javascript, React, NodeJS, Python, Django, Flask, Django RestFramework, HTML, CSS
 
 
 # 💻 Tech Stack:
